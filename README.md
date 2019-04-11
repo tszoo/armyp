@@ -1,2 +1,2 @@
-# amp
+# armypedia
 armypedia proto type
