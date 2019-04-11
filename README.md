@@ -1,4 +1,7 @@
 # armypedia
 armypedia proto type
-http://dev.does.kr/ateam/zt/proto/armyp/
+
+[test link](http://dev.does.kr/ateam/zt/proto/armyp/)
+
+
 
